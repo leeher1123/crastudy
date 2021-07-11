@@ -33,7 +33,7 @@ const Header = () => {
                         <NavLink to={'/todo'}>todo</NavLink>
                     </NavItem>
                     <NavItem>
-                        <NavLink to={'/users'}>users</NavLink>
+                        <NavLink to={'/posts'}>posts</NavLink>
                     </NavItem>
                 </Nav>
                 <NavButton onClick={handleSidebar}>
